@@ -1,0 +1,27 @@
+[
+    {
+        "email": "yaxa@gmail.com",
+        "password": "562",
+        "role": "admin"
+    },
+    {
+        "email": "sakshi@gmail.com",
+        "password": "5628@123",
+        "role": "admin"
+    },
+    {
+        "email": "",
+        "password": "5628@123",
+        "role": "customer"
+    },
+    {
+        "email": "",
+        "password": "5628@123",
+        "role": "customer"
+    },
+    {
+        "email": "s@gmail",
+        "password": "5628@123",
+        "role": "customer"
+    }
+]
