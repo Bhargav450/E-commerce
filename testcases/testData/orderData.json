@@ -1,0 +1,47 @@
+[
+  {
+    "orderDate": "",
+    "requiredDate": "2003-01-13",
+    "shippedDate": "2003-01-10",
+    "status": "Shipped",
+    "comments": null,
+    "isActive": 1,
+    "customerNumber": 363
+  },
+  {
+    "orderDate": "2003-01-09",
+    "requiredDate": "NULL",
+    "shippedDate": "2003-01-11",
+    "status": "",
+    "comments": "Check on availability.",
+    "isActive": 1,
+    "customerNumber": 128
+  },
+  {
+    "orderDate": "2003-01-10",
+    "requiredDate": "2003-01-18",
+    "shippedDate": "2003-01-14",
+    "status": "",
+    "comments": null,
+    "isActive": 1,
+    "customerNumber": 181
+  },
+  {
+    "orderDate": "2003-01-10",
+    "requiredDate": "",
+    "shippedDate": "",
+    "status": "Shipped",
+    "comments": null,
+    "isActive": 1,
+    "customerNumber": 121
+  },
+  {
+    "orderDate": "2003-01-31",
+    "requiredDate": "2003-02-09",
+    "shippedDate": "",
+    "status": "Shipped",
+    "comments": null,
+    "isActive": 1,
+    "customerNumber": ""
+  }
+]

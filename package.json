@@ -1,0 +1,38 @@
+{
+  "name": "items",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "logintest": "python testcases/auth.test.py",
+    "registertest": "python testcases/registration.test.py",
+    "orderTest": "python testcases/order.test.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apicache": "^1.6.3",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "chai-http": "^4.4.0",
+    "esm": "^3.2.25",
+    "express": "^4.19.1",
+    "express-validator": "^7.0.1",
+    "fs": "0.0.1-security",
+    "ioredis": "^5.3.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.2",
+    "path": "^0.12.7",
+    "redis": "^4.6.13",
+    "sequelize": "^6.37.1",
+    "swagger-ui-express": "^5.0.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "fs-extra": "^11.2.0",
+    "mocha": "^10.3.0",
+    "nodemon": "^3.1.0"
+  }
+}
