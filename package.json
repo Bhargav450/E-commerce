@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "logintest": "python testcases/auth.test.py",
     "registertest": "python testcases/registration.test.py",
     "orderTest": "python testcases/order.test.py"
