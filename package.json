@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "build": "npm install && npm rebuild",
     "logintest": "python testcases/auth.test.py",
     "registertest": "python testcases/registration.test.py",
     "orderTest": "python testcases/order.test.py"
