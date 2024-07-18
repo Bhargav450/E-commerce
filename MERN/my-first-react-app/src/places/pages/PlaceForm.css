@@ -1,0 +1,19 @@
+.place-form {
+  list-style: none;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  background: white;
+  font-size: 0.875rem; /* Example size (14px) */
+}
+
+.input-reduced-text {
+  font-size: 0.875rem; /* Example size (14px) */
+  padding: 0.5rem;     /* Adjust padding as needed */
+  width: 100%;        /* Ensure the input takes full width of its container */
+  box-sizing: border-box; /* Include padding in the element's total width and height */
+}
+
